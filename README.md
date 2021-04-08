@@ -1,2 +1,2 @@
 # leleka
-A website for language enthusiasts that relies in mutual contribution of its users.
+A website for language enthusiasts that relies on mutual contribution of its users.
